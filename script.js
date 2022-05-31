@@ -18,3 +18,10 @@ let nF = 1.72;
 let verdade = true;
 
 let falso = false;
+
+console.log(nome);
+console.log(n);
+console.log(pi);
+console.log(nF);
+console.log(verdade);
+console.log(falso);
